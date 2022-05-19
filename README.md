@@ -1,11 +1,8 @@
-![](./GAN.gif)
-[Source of Image](https://multithreaded.stitchfix.com/blog/2016/02/02/a-fontastic-voyage/)
+## EfficientNet Pre-Trained with PyTorch - Covid-19 X-Ray Dataset
 
-## This Repo has all the GAN related codes and implementations for my [YouTube Channel](https://www.youtube.com/channel/UC0_a8SNpTFkmVv5SLMs1CIA/featured)
+# [Link to my Youtube Video Explaining this whole Notebook](https://youtu.be/WJh3diVLUcY?list=PLxqBkZuBynVRyOJs4RWmB_fKlOVe5S8CR)
 
-[yt_cover]: /assets/Youtube_Cover.jpg
-
-[![Youtube Link][yt_cover]](https://www.youtube.com/channel/UC0_a8SNpTFkmVv5SLMs1CIA/videos)
+[![Imgur](https://imgur.com/QrqgGHt.png)](https://youtu.be/WJh3diVLUcY?list=PLxqBkZuBynVRyOJs4RWmB_fKlOVe5S8CR)
 
 ### Author: Rohan Paul
 
